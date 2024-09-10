@@ -1,4 +1,4 @@
-# gg
+# NearbyPlaces
 
 A new Flutter project.
 
